@@ -1,5 +1,5 @@
-How to run Problem 4:
-	1- Open terminal and swith your current directory to this one.
+How to run Problem 4:\n
+	1- Open terminal and swith your current directory to this one.\n
 	2- First run the make file by typing 'make' or 'make install' to the terminal.
 	3- The the compiled kernel module should be installed to the kernel. You have to have root permission to install or remove a kernel module.
 	4- Type 'sudo insmod my_module.ko' to terminal to install.
